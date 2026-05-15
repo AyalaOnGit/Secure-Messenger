@@ -8,10 +8,9 @@ Messages are encrypted at rest using AES-256-GCM. Authentication is handled via 
 ## 📽️ Demo
 
 
-<video src="assets\demo.mp4" autoplay loop muted playsinline width="100%">
-</video>
+![צילום מסך של המערכת](assets/1.png)
 
-> Two users chatting in real time from separate terminals — no browser, no frontend.
+> Three users chatting in real time from separate terminals — no browser, no frontend.
 
 ---
 
