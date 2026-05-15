@@ -1,5 +1,40 @@
+# Python
 __pycache__/
 *.pyc
-.env
-local_db.db
+*.pyo
+*.pyd
+.Python
+
+# Virtual environments
 .venv/
+venv/
+env/
+
+# Environment variables
+.env
+.env.*
+
+# Database files
+data/messenger.db
+data/test_messenger.db
+test_messenger.db
+*.db
+
+# IDE
+.vscode/
+.idea/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Pytest
+.pytest_cache/
+.coverage
+
+# Alembic — keep migrations but ignore compiled
+migrations/versions/__pycache__/
+
+
+stages
